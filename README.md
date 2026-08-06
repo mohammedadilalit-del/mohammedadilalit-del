@@ -9,6 +9,7 @@ Data Analyst passionate about transforming raw data into meaningful insights thr
 - Building data-driven solutions to support business decision-making.
 
 ## 📚 Projects
+https://github.com/mohammedadilalit-del/hi-there-
 
 Welcome to my portfolio, where I showcase my data analytics projects demonstrating skills in SQL, Python, Excel, and Power BI.
 
